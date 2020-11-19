@@ -1,0 +1,9 @@
+Throughout your responses you are going to be asked questions that are going to ask for input in order to progress or move forward. MOST of these questions are going to involve inputting action verbs to have your character progress. 
+Here is a list of the possible commands that you may have to use in order to progress: |
+
+Examine| 
+Look|
+Go|
+Get|
+
+Use "help" or "commands" if you ever feel like you do not have an idea of how to progress forward. 
